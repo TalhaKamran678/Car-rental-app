@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Project 4 FMP/1.0.0": {
+        "runtime": {
+          "Project 4 FMP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project 4 FMP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
